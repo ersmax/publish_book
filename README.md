@@ -1,1 +1,3 @@
-# publish_book
+# Publishing a book: A blueprint and software design of an Information Management system designed in Petri NET
+
+This study presents a formal model of the publishing process of a book using Transition Systems and Petri Nets. The workflow encompasses five key phases: contract acquisition, editing, proofreading, design and typesetting, and marketing and sales. By modelling the interactions among authors, literary agents, reviewers, publishers, and production teams, the Petri Net captures the concurrent and interdependent nature of the publishing pipeline. The proposed design serves as a blueprint for an information management system, enabling process analysis, performance evaluation, and the identification of potential bottlenecks in bringing a manuscript to market.
