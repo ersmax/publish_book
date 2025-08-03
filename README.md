@@ -1,3 +1,6 @@
 # Publishing a book: A blueprint and software design of an Information Management system designed in Petri NET
 
 This paper models the book publishing workflow using Transition Systems and Petri Nets to support process-aware software design. Transition Systems provide clear, stepwise process visualization but suffer from state-space explosion with multiple manuscripts. Petri Nets overcome this through compact, concurrent modelling using tokens and buffer places, enabling scalability and resource synchronization. The results highlight how formal process models can guide workflow management and decision-support software in publishing while balancing clarity and scalability
+
+# DOI Research Paper:
+http://dx.doi.org/10.13140/RG.2.2.17133.50402
